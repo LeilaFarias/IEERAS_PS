@@ -1,6 +1,6 @@
 import cv2
 #Lendo a imagem e armazenando em uma variável 
-imagem = cv2.imread('entrada2.jpg')
+imagem = cv2.imread('entrada.jpg')
 (b, g, r) = imagem[0, 0] #veja que a ordem BGR e não RGB
 
 # Analisando o pixel mais a esquerda
