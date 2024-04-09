@@ -1,7 +1,7 @@
 Relatório sobre dificuldades e aprendizados da missão da Segunda etapa
 ---
 
-A missão 3 foi um tanto complicada, mas foi muito interessante aprender sobre a biblioteca mediapipe que tive que utilizar pra usar suas ferramentas de detecção de mãos. Alguns pontos de aprendizado que tive:
+A missão foi um tanto complicada, mas foi muito interessante aprender sobre a biblioteca mediapipe que tive que utilizar pra usar suas ferramentas de detecção de mãos. Alguns pontos de aprendizado que tive:
 
 * Aprendi uma ótima biblioteca para visão computacional que é a mediapipe, achei incrivel as funcionalidades que ela tem de detecção de face, mãos, pose, etc.
 * Aprendi sobre landmarks, pontos básicos muito importantes das nossas mãos que quando extraídos podem ser utilizados pra diversos propósitos
